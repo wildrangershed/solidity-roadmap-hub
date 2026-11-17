@@ -1,0 +1,6 @@
+QUICK LAUNCH — Solidity Roadmap Hub
+=========================
+
+See README for the download buttons.
+
+(last checked: 2026-11-17)
